@@ -7,4 +7,4 @@
 :HL["/trabajos/trabajando/trabajando-03.webp","image"]
 :HL["/whatsapp.svg","image"]
 :HL["/trabajos/logo/logo-pie.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"0QGPx_az1wsHhBumNq-kw"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"AgKJtyPrRQv6128CNTWpQ"}
